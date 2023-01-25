@@ -22,10 +22,10 @@
     "url": "https://rawmoose.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rawmoose.com.ico",
     "slug": "rawmoose",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 436,
@@ -33,16 +33,18 @@
     "timeWeek": 422,
     "timeMonth": 440,
     "timeYear": 436,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Reggie Pedro",
     "url": "https://reggiepedro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/reggiepedro.com.ico",
     "slug": "reggie-pedro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 424,
     "timeMonth": 440,
     "timeYear": 471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "The Blackett Lab Family",
