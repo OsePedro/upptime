@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 418,
-    "timeDay": 330,
-    "timeWeek": 467,
-    "timeMonth": 436,
-    "timeYear": 418,
+    "timeDay": 381,
+    "timeWeek": 437,
+    "timeMonth": 431,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2023-03-30": 67
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rawmoose.com.ico",
     "slug": "rawmoose",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 417,
-    "timeDay": 325,
-    "timeWeek": 476,
-    "timeMonth": 437,
+    "timeDay": 395,
+    "timeWeek": 450,
+    "timeMonth": 434,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2023-04-12": 63,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 428,
-    "timeDay": 298,
-    "timeWeek": 464,
-    "timeMonth": 435,
-    "timeYear": 428,
+    "timeDay": 396,
+    "timeWeek": 439,
+    "timeMonth": 430,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2023-03-30": 67,
       "2023-01-25": 54
@@ -74,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 526,
-    "timeDay": 380,
-    "timeWeek": 589,
-    "timeMonth": 552,
-    "timeYear": 525,
+    "timeDay": 508,
+    "timeWeek": 554,
+    "timeMonth": 547,
+    "timeYear": 524,
     "dailyMinutesDown": {}
   }
 ]
