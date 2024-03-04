@@ -4,10 +4,10 @@
     "url": "https://mwaro.com/5SR/",
     "icon": "https://icons.duckduckgo.com/ip3/mwaro.com.ico",
     "slug": "mwaro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 414,
@@ -16,6 +16,7 @@
     "timeMonth": 386,
     "timeYear": 406,
     "dailyMinutesDown": {
+      "2024-03-04": 2,
       "2023-03-30": 67
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://rawmoose.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rawmoose.com.ico",
     "slug": "rawmoose",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 411,
     "timeDay": 525,
     "timeWeek": 390,
     "timeMonth": 376,
     "timeYear": 404,
     "dailyMinutesDown": {
+      "2024-03-04": 1,
       "2023-04-12": 63,
       "2023-03-30": 67
     }
@@ -45,18 +47,19 @@
     "url": "https://reggiepedro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/reggiepedro.com.ico",
     "slug": "reggie-pedro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 421,
+    "time": 420,
     "timeDay": 535,
     "timeWeek": 391,
     "timeMonth": 382,
     "timeYear": 406,
     "dailyMinutesDown": {
+      "2024-03-04": 1,
       "2023-03-30": 67
     }
   },
@@ -65,9 +68,9 @@
     "url": "https://theblackettlabfamily.com/",
     "icon": "https://icons.duckduckgo.com/ip3/theblackettlabfamily.com.ico",
     "slug": "the-blackett-lab-family",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +79,8 @@
     "timeWeek": 502,
     "timeMonth": 482,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-04": 0
+    }
   }
 ]
