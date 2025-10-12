@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 478,
-    "timeDay": 331,
-    "timeWeek": 402,
-    "timeMonth": 433,
+    "timeDay": 391,
+    "timeWeek": 375,
+    "timeMonth": 421,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2025-03-07": 55,
@@ -21,8 +21,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 52,
       "2024-10-17": 65,
-      "2024-10-14": 42,
-      "2024-10-12": 67
+      "2024-10-14": 42
     }
   },
   {
@@ -37,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 466,
-    "timeDay": 382,
-    "timeWeek": 459,
-    "timeMonth": 446,
+    "timeDay": 453,
+    "timeWeek": 446,
+    "timeMonth": 438,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2025-03-07": 54,
@@ -47,8 +46,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 52,
       "2024-10-17": 106,
-      "2024-10-14": 57,
-      "2024-10-12": 66
+      "2024-10-14": 57
     }
   },
   {
@@ -57,15 +55,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/reggiepedro.com.ico",
     "slug": "reggie-pedro",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 467,
-    "timeDay": 380,
-    "timeWeek": 433,
-    "timeMonth": 435,
+    "time": 468,
+    "timeDay": 469,
+    "timeWeek": 421,
+    "timeMonth": 430,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-03-07": 54,
@@ -73,8 +71,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 52,
       "2024-10-17": 104,
-      "2024-10-14": 57,
-      "2024-10-12": 66
+      "2024-10-14": 57
     }
   },
   {
@@ -89,17 +86,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 585,
-    "timeDay": 399,
-    "timeWeek": 521,
-    "timeMonth": 542,
+    "timeDay": 490,
+    "timeWeek": 488,
+    "timeMonth": 530,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2025-03-07": 45,
       "2024-11-16": 996,
       "2024-11-15": 1440,
       "2024-11-14": 52,
-      "2024-10-17": 104,
-      "2024-10-12": 65
+      "2024-10-17": 104
     }
   }
 ]
