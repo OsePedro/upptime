@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mwaro.com.ico",
     "slug": "mwaro",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
-    "time": 464,
-    "timeDay": 556,
-    "timeWeek": 505,
-    "timeMonth": 505,
-    "timeYear": 469,
+    "time": 465,
+    "timeDay": 619,
+    "timeWeek": 536,
+    "timeMonth": 506,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2025-10-18": 994,
       "2025-10-17": 1440,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 467,
-    "timeDay": 541,
-    "timeWeek": 514,
-    "timeMonth": 499,
+    "timeDay": 565,
+    "timeWeek": 528,
+    "timeMonth": 496,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2025-10-12": 393
@@ -57,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 463,
-    "timeDay": 578,
-    "timeWeek": 489,
-    "timeMonth": 488,
-    "timeYear": 466,
+    "timeDay": 568,
+    "timeWeek": 521,
+    "timeMonth": 489,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2025-10-12": 393
     }
@@ -76,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 577,
-    "timeDay": 704,
-    "timeWeek": 639,
-    "timeMonth": 636,
-    "timeYear": 579,
+    "time": 578,
+    "timeDay": 706,
+    "timeWeek": 668,
+    "timeMonth": 634,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2025-10-12": 393
     }
